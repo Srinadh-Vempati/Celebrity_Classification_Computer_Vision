@@ -3,33 +3,35 @@ Classification of 5 Sports celebrities using Computer Vision and Machine Learnin
 ![website_snip](https://user-images.githubusercontent.com/67272004/158484371-038a3020-28a1-423a-b2e8-6d2ded51da47.PNG)
 
 Project Ojective:
+
 Create a Interactive Classifier GUI which can classify the image uploaded under the right celebritity category. 
 
 Cateogories: 
+
 Maria Sharapova
 Serena Williams
 Virat Kohli
 Roger Federer
 Lionel Messi
 
-Folder Structure
-Here is the folder structure,
+Folder Structure:
 
 UI : GUI website code
 server: Python flask server
 model: Contains python notebook for model building
-images_dataset: Dataset used for our model training
 
 Computer Vision:
 - Haarcascades : Face & Eyes detection
 - Wavelet decomposition of Images : Feature Extraction
 
 Machine Learning:
+
 - SVM / Random Forest / Logistic Regression for Classification
 - Hyperparameter Tuning using GridSearchCV
 - Heatmap / Confusion Matrix
 
 Major Libraries:
+
 - Opencv
 - Pywt (Wavelets)
 - Flask
