@@ -48,6 +48,6 @@ model: Contains python notebook for model building
 - Glob / OS 
 
 
-# References:**
+**References:**
 - https://github.com/codebasics/py/tree/master/DataScience/CelebrityFaceRecognition
 - https://www.youtube.com/watch?v=qWXXHjV3JHI&list=PLeo1K3hjS3uvaRHZLl-jLovIjBP14QTXc&ab_channel=codebasics
